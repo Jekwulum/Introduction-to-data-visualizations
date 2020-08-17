@@ -26,7 +26,7 @@ Practical guidance that you can begin using immediately to better communicate vi
 ## Prerequisites
 	- Jupyter Notebook
 	- Python 3
-	- Python libraries: Pandas, Matplotlib, Seaborn, Plotly
+	- Python libraries: Pandas, Matplotlib, Seaborn, Plotly, Pandas Profiling
 
 ## Installing
 > Instructions to install Jupyter Notebook: https://jupyter.org/install
