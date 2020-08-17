@@ -5,10 +5,11 @@
 
 ## Introduction
 
-> We aren't naturally good at storytelling with data***
+We aren't naturally good at storytelling with data***
 In school we learn a lot about language and math. On the language side, we learn how to put words together into sentences and into stories. With math we learn to make sense of numbers. But it's rare that these sides are paired: no one teaches us how to tell stories with numbers. Adding to the challenge, very few people feel naturally adept in this space.
 There is a story in your data. But your tools don't know what that story is so you want to shift from simply showing data to storytelling with data 
 Practical guidance that you can begin using immediately to better communicate visually with data :- 
+
 1 - understand the context.
 
 2- choose an appropriate visual display.
